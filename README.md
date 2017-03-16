@@ -1,14 +1,12 @@
 # league_analysis
-League of Legend Champions Win Rate Relationship Analysis
+League of Legend winning prediction with time lapsed of the game
 
 # Introduction
-Using League of Legend API obtains data of 1000 ranked solo queue games.
+Obtained data of 1000 ranked solo queue games from League of Legend API.
 
 # Goals
 ## Exploratory Data Analysis
-
-
-## Champions Win Rate Analysis
-
+Looking at creeps killed, gold earned, damage taken and experience gained over time and group them by winning outcome.
 
 ## Match Time Analysis
+Using creeps killed, gold earned, damage taken and experience gained over time to predict if the team will win th egame or not.
