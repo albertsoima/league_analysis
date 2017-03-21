@@ -9,4 +9,4 @@ Obtained data of 1000 ranked solo queue games from League of Legend API.
 Looking at creeps killed, gold earned, damage taken and experience gained over time and group them by winning outcome.
 
 ## Match Time Analysis
-Using creeps killed, gold earned, damage taken and experience gained over time to predict if the team will win th egame or not.
+Using creeps killed, gold earned, damage taken and experience gained over time to predict if the team will win the game or not.
